@@ -1,2 +1,3 @@
 # TestLiveCoding
-Ce repo sert à tester l'utilisation des branches pour un live coding et c'est tout!
+Ce repo sert à tester la gestion de conflits entre les branches pour un live coding
+
